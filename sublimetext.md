@@ -10,4 +10,6 @@ Select "Install Package" and search for Shell Turtlestein and select it.
 After the package is installed, you can use ctrl + alt + shift + C (in Windows) to launch the command line.
 You can also use ctrl + shift + C to prompt for a shell command.
 
+https://github.com/misfo/Shell-Turtlestein
+
 ---
